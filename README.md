@@ -18,4 +18,18 @@ Estructura del repositorio
 git clone https://github.com/Lulys1234/PROYECTO-VEHICULOS-.git
 cd PROYECTO-VEHICULOS-
 Se instalaron dependencias como : pip install -r requirements.txt y se ejecuto streamlit run app.py, la aplicacion se abrio en http://localhost:8501
-Herramientas utilizadas: Python 3, Pandas, Plotly Express, Streamlit, Render 
+
+Tecnologías utilizadas
+- Python
+- Pandas
+- Plotly Express
+- Streamlit
+- Render
+
+Hallazgos principales
+- Se exploraron patrones en variables como precio, modelo y año del vehículo.
+- Se crearon visualizaciones interactivas para facilitar la interpretación de los datos.
+- Se desarrolló una aplicación en Streamlit para consultar la información de forma dinámica.
+
+Enlace del proyecto
+[Ver repositorio en GitHub](https://github.com/Lulys1234/PROYECTO-VEHICULOS-)
